@@ -1,0 +1,23 @@
+.main-img {
+    width: 1000px;
+    margin-left:auto;
+    margin-right: auto;
+    background-image: url('https://ntvb.tmsimg.com/assets/p22143664_v_h8_ae.jpg?w=960&h=540');
+    height: 333px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
